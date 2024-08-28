@@ -55,10 +55,10 @@ a:hover {
 }
 
 div {
-    font-size: 3vw;
+    font-size: 2.5vw;
     padding-top: 10vh;
     padding-bottom: 10vh;
-    padding-left: 30px;
+    padding-left: 70px;
     line-height: 2em;
 }
 
@@ -72,9 +72,9 @@ div.transparente {
     font-family: var(--fonte-padrao);
     color: white;
     text-shadow: 0px 0px 10px black;
-    width: 400px;
-    padding: 20px 10px;
-    margin: 30px;
+    padding: 20px;
+    margin: 30px 70px;
+    display: inline-block;
 }
 
 div#foto001 {
